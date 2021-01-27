@@ -1,0 +1,5 @@
+Componente
+
+ng g c login
+ng g c logado
+ng g c error
